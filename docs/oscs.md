@@ -68,6 +68,8 @@ Course | Duration | Effort
 
 Course | Duration | Effort
 --- | --- | ---
+[MIT BOOK - Mathematics for Computer Science by Eric Lehman](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) | - | -
+[Mathematics for Computer Science - LondonU](https://www.coursera.org/learn/mathematics-for-computer-science) | 38h | -
 [(Logic) Introduction to Mathematical Thinking - Stanford](https://www.coursera.org/learn/mathematical-thinking) | 39h | ?h/w
 [(Logic) Introduction to Logic - Stanford ](https://www.coursera.org/learn/logic-introduction) | 54h | ?h/w
 [The Math of Data Science: Linear Algebra - RICE](https://www.edx.org/course/math-of-data-science-linear-algebra) | 8w | 6-8h/w
