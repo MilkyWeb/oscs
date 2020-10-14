@@ -1,11 +1,182 @@
 # Open-source Computer Science Curriculum
 
+Computer science is about understanding computer systems and networks at a deep level.
 
-## Categories
+> L = Low difficulty
+> M = Medium difficulty
+> H = High difficulty
 
-### Algorithms
+## Core Categories
+
+Recommended core categories and courses.
+
+### Intro to CS and Algorithms Design
 
 Course | Duration | Effort
 --- | --- | ---
-[Algorithms design and analysis](https://www.edx.org/course/algorithms-design-and-analysis) | 6 week | 2-4h/w
+[Introduction to Computer Science - CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-to-computer-science) | 12w | 6-18h/w
+[Algorithms design and analysis - part 1 - Stanford](https://www.edx.org/course/algorithms-design-and-analysis) | 6w | 2-4h/w
+[Algorithms design and analysis - part 2 - Stanford](https://www.edx.org/course/algorithms-design-and-analysis-part-2-2) | 6w | 2-4h/w
+[Algorithmic Design and Techniques - UCSanDiego](https://www.edx.org/course/algorithmic-design-and-techniques) | 6w | 8-10h/w
+[(H) Introduction to Computational Thinking and Data Science - MITx](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | 6w | 8-10h/w
+--- | --- | ---
+[(MicroMaster) Algorithms and Data Structures - UCSanDiego](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures) | 9m | 8-10h/w
 
+
+### Data Structures
+
+Course | Duration | Effort
+--- | --- | ---
+[(L) Computing in Python III: Data Structures - GeogiaTech](https://www.edx.org/course/computing-in-python-iii-data-structures) | 5w | 9-10h/w
+[Data Structures Fundamentals - UCSanDiego](https://www.edx.org/course/data-structures-fundamentals) | 6w | 8-10h/w
+[(H) Data Structures: An Active Learning Approach - UCSanDiego](https://www.edx.org/course/data-structures-an-active-learning-approach) | w | h/w
+
+### Programming Paradigms
+
+Programming paradigms are a way to classify programming languages based on their features.
+
+#### Procedural Programming
+
+Course | Duration | Effort
+--- | --- | ---
+[Introduction to Computer Science and Programming Using Python - MITx](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | 9W | 14-16h/w
+
+#### Object Oriented Programming
+
+Course | Duration | Effort
+--- | --- | ---
+ | w | h/w
+
+#### Functional Programming
+
+Course | Duration | Effort
+--- | --- | ---
+[Introduction to Functional Programming - TUDelft](https://www.edx.org/course/introduction-to-functional-programming) | 4w | 4-6h/w
+[Treading on Python Series: Intermediate Python Programming: Learn Decorators, Generators, Functional Programming and More](https://www.amazon.com/gp/product/B00BT95CWM) | Book | Book
+
+### Mathematics
+
+#### Math and Logic for Computer Science
+
+Course | Duration | Effort
+--- | --- | ---
+[(Logic) Introduction to Mathematical Thinking - Stanford](https://www.coursera.org/learn/mathematical-thinking) | 39h | ?h/w
+[(Logic) Introduction to Logic - Stanford ](https://www.coursera.org/learn/logic-introduction) | 54h | ?h/w
+[The Math of Data Science: Linear Algebra - RICE](https://www.edx.org/course/math-of-data-science-linear-algebra) | 8w | 6-8h/w
+[Introduction to Linear Models and Matrix Algebra - Harvard](https://www.edx.org/course/introduction-to-linear-models-and-matrix-algebra) | 8w | 6-8h/w
+Programs | --- | ---
+[Mathematics for Machine Learning **Specialization** - ImperialCollegeLondon](https://www.coursera.org/specializations/mathematics-machine-learning) | 4m | 4h/w
+Or [Introduction to Discrete Mathematics for Computer Science **Specialization**](https://www.coursera.org/specializations/discrete-mathematics) | 6m | 5h/w
+
+#### Statistics and Probability
+
+Course | Duration | Effort
+--- | --- | ---
+[Statistics and R - Harvard](https://www.edx.org/course/statistics-and-r) | 4w | 2-4h/w
+[Probability and Statistics in Data Science using Python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-p) | 10w | 10-12h/w
+[(H) Fundamentals of Statistics - MITx](https://www.edx.org/course/fundamentals-of-statistics) | 18w | 10-14h/w
+[(H) Probability - The Science of Uncertainty and Data - MITx](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data) | 16w | 10-14h/w
+
+### Concurrent Programming
+
+Course | Duration | Effort
+--- | --- | ---
+
+### Software Architecture and Design
+
+Course | Duration | Effort
+--- | --- | ---
+[Software Architecture & Design - GeorgiaTech](https://www.udacity.com/course/software-architecture-design--ud821) | 8w | h/w
+[Open Source Software Development Methods - TheLinuxFoundation](https://www.coursera.org/learn/open-source-software-development-methods) | 6h | ---
+[Software Engineering: Introduction - BritishColumbia](https://www.edx.org/course/software-engineering-introduction) | 6w | 8-10h/w
+Programs | --- | ---
+[Software Design and Architecture Specialization - AlbertaUniversity](https://www.coursera.org/specializations/software-design-architecture) | 4m | 3h/w
+
+### Software Testing
+
+Course | Duration | Effort
+--- | --- | ---
+[Software Testing - Udacity](https://www.udacity.com/course/software-testing--cs258) | 4w | -
+
+### Operating Systems/Parallel Programming
+
+Course | Duration | Effort
+--- | --- | ---
+
+### Compilers
+
+Course | Duration | Effort
+--- | --- | ---
+[Compilers - Stanford](https://www.edx.org/course/compilers) | 10w | 5-10h/w
+
+### Databases
+
+Course | Duration | Effort
+--- | --- | ---
+[Databases: Relational Databases and SQL - Stanford](https://www.edx.org/course/databases-5-sql) | 2w | 8-10h/w
+[Databases: Advanced Topics in SQL - Stanford](https://www.edx.org/course/advanced-topics-in-sql) | 2w | 8-10h/w
+[Databases: Semistructured Data - Stanford](https://www.edx.org/course/semistructured-data) | 2w | 8-10h/w
+[Databases: OLAP and Recursion - Stanford](https://www.edx.org/course/olap-and-recursion) | 2w | 8-10h/w
+[Databases: Modeling and Theory - Stanford](https://www.edx.org/course/modeling-and-theory) | 2w | 8-10h/w
+
+### Computer Architecture
+
+Course | Duration | Effort
+--- | --- | ---
+
+### Computer Graphics
+
+Course | Duration | Effort
+--- | --- | ---
+
+### Computer Networks
+
+Course | Duration | Effort
+--- | --- | ---
+
+## Specialization Categories
+
+### Web Programming
+
+Course | Duration | Effort
+--- | --- | ---
+[Programming for the Web with JavaScript - Penn](https://www.edx.org/course/programming-for-the-web-with-javascript) | 4w | 6-8h/w
+
+### Games
+
+Course | Duration | Effort
+--- | --- | ---
+
+### Security
+
+Course | Duration | Effort
+--- | --- | ---
+[Cryptography I - Stanford](https://www.coursera.org/learn/crypto) | 23h | -
+[Cryptography II - Stanford](https://www.coursera.org/learn/crypto2) | 2h | -
+
+### Data Science
+
+Course | Duration | Effort
+--- | --- | ---
+
+### AI
+
+Course | Duration | Effort
+--- | --- | ---
+
+#### Machine Learning
+
+Course | Duration | Effort
+--- | --- | ---
+
+#### NLP
+
+Course | Duration | Effort
+--- | --- | ---
+
+### Quantum Computer Science
+
+Course | Duration | Effort
+--- | --- | ---
+[Quantum Information Science I, Part 1](https://www.edx.org/course/quantum-information-science-i-part-1) | 5w | 11-13h/w
+[Quantum Information Science I, Part 2](https://www.edx.org/course/quantum-information-science-i-part-2) | 5w | 11-13h/w
