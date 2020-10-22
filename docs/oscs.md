@@ -13,11 +13,55 @@ Difficulty:
 
 Recommended core categories and courses.
 
+### Mathematics
+
+It's important to take algebra and calculus first, its used in almost any course of algorithms.
+
+#### Basic Math
+
+Course | Duration | Effort
+--- | --- | ---
+[Algebraic Methods, Graphs and Applied Mathematics Methods](https://www.edx.org/course/a-level-mathematics-for-year-12-course-1-algebraic) | 7w | 2-4h/w
+[Calculus, Newton’s Laws and Hypothesis Testing](https://www.edx.org/course/a-level-mathematics-for-year-12-course-2-calculus) | 7w | 2-4h/w
+[Functions, Sequences and Series, and Numerical Methods](https://www.edx.org/course/a-level-mathematics-for-year-13-course-1-functions) | 7w | 2-4h/w
+[General Motion, Moments and Equilibrium, The Normal Distribution, Vectors, Differentiation Methods, Integration Methods and Differential Equations](https://www.edx.org/course/a-level-mathematics-for-year-13-course-2) | 7w | 2-4h/w
+[Linear Algebra I: Linear Equations - GeorgiaTech](https://www.edx.org/course/linear-equations-part-1) | 3w | 5-6h/w
+[Linear Algebra II: Matrix Algebra - GeorgiaTech](https://www.edx.org/course/matrix-algebra) | 3w | 5-6h/w
+[Linear Algebra III: Determinants and Eigenvalues - GeorgiaTech](https://www.edx.org/course/determinants-and-eigenvalues) | 3w | 5-6h/w
+[Linear Algebra IV: Orthogonality & Symmetric Matrices and the SVD](https://www.edx.org/course/orthogonality-symmetric-matrices-and-the-svd) | 3w | 5-6h/w
+[Calculus Applied! - Harvard](https://www.edx.org/course/calculus-applied) | 10w | 3-6h/w
+
+#### Math and Logic for Computer Science
+
+Course | Duration | Effort
+--- | --- | ---
+[MIT BOOK - Mathematics for Computer Science by Eric Lehman](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) | - | -
+[Mathematics for Computer Science - LondonU](https://www.coursera.org/learn/mathematics-for-computer-science) | 38h | -
+[(Logic) Introduction to Mathematical Thinking - Stanford](https://www.coursera.org/learn/mathematical-thinking) | 39h | ?h/w
+[(Logic) Introduction to Logic - Stanford ](https://www.coursera.org/learn/logic-introduction) | 54h | ?h/w
+[The Math of Data Science: Linear Algebra - RICE](https://www.edx.org/course/math-of-data-science-linear-algebra) | 8w | 6-8h/w
+[Introduction to Linear Models and Matrix Algebra - Harvard](https://www.edx.org/course/introduction-to-linear-models-and-matrix-algebra) | 8w | 6-8h/w
+Programs | --- | ---
+[Mathematics for Machine Learning **Specialization** - ImperialCollegeLondon](https://www.coursera.org/specializations/mathematics-machine-learning) | 4m | 4h/w
+Or [Introduction to Discrete Mathematics for Computer Science **Specialization**](https://www.coursera.org/specializations/discrete-mathematics) | 6m | 5h/w
+
+#### Statistics and Probability
+
+Course | Duration | Effort
+--- | --- | ---
+[Statistics and R - Harvard](https://www.edx.org/course/statistics-and-r) | 4w | 2-4h/w
+[Probability and Statistics in Data Science using Python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-p) | 10w | 10-12h/w
+[(H) Fundamentals of Statistics - MITx](https://www.edx.org/course/fundamentals-of-statistics) | 18w | 10-14h/w
+[(H) Probability - The Science of Uncertainty and Data - MITx](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data) | 16w | 10-14h/w
+
+---
+
 ### Intro to CS and Algorithms Design
 
 Course | Duration | Effort
 --- | --- | ---
 [Introduction to Computer Science - CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-to-computer-science) | 12w | 6-18h/w
+[Introduction to Computer Science and Programming Using Python - MITx](https://www.edx.org/course/introduction-to-computer-science-and-programming-70) | 9w | 14-16h/w
 [Algorithms design and analysis - part 1 - Stanford](https://www.edx.org/course/algorithms-design-and-analysis) | 6w | 2-4h/w
 [Algorithms design and analysis - part 2 - Stanford](https://www.edx.org/course/algorithms-design-and-analysis-part-2-2) | 6w | 2-4h/w
 [Algorithmic Design and Techniques - UCSanDiego](https://www.edx.org/course/algorithmic-design-and-techniques) | 6w | 8-10h/w
@@ -59,33 +103,6 @@ Course | Duration | Effort
 --- | --- | ---
 [Introduction to Functional Programming - TUDelft](https://www.edx.org/course/introduction-to-functional-programming) | 4w | 4-6h/w
 [Treading on Python Series: Intermediate Python Programming: Learn Decorators, Generators, Functional Programming and More](https://www.amazon.com/gp/product/B00BT95CWM) | Book | Book
-
----
-
-### Mathematics
-
-#### Math and Logic for Computer Science
-
-Course | Duration | Effort
---- | --- | ---
-[MIT BOOK - Mathematics for Computer Science by Eric Lehman](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) | - | -
-[Mathematics for Computer Science - LondonU](https://www.coursera.org/learn/mathematics-for-computer-science) | 38h | -
-[(Logic) Introduction to Mathematical Thinking - Stanford](https://www.coursera.org/learn/mathematical-thinking) | 39h | ?h/w
-[(Logic) Introduction to Logic - Stanford ](https://www.coursera.org/learn/logic-introduction) | 54h | ?h/w
-[The Math of Data Science: Linear Algebra - RICE](https://www.edx.org/course/math-of-data-science-linear-algebra) | 8w | 6-8h/w
-[Introduction to Linear Models and Matrix Algebra - Harvard](https://www.edx.org/course/introduction-to-linear-models-and-matrix-algebra) | 8w | 6-8h/w
-Programs | --- | ---
-[Mathematics for Machine Learning **Specialization** - ImperialCollegeLondon](https://www.coursera.org/specializations/mathematics-machine-learning) | 4m | 4h/w
-Or [Introduction to Discrete Mathematics for Computer Science **Specialization**](https://www.coursera.org/specializations/discrete-mathematics) | 6m | 5h/w
-
-#### Statistics and Probability
-
-Course | Duration | Effort
---- | --- | ---
-[Statistics and R - Harvard](https://www.edx.org/course/statistics-and-r) | 4w | 2-4h/w
-[Probability and Statistics in Data Science using Python](https://www.edx.org/course/probability-and-statistics-in-data-science-using-p) | 10w | 10-12h/w
-[(H) Fundamentals of Statistics - MITx](https://www.edx.org/course/fundamentals-of-statistics) | 18w | 10-14h/w
-[(H) Probability - The Science of Uncertainty and Data - MITx](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data) | 16w | 10-14h/w
 
 ---
 
