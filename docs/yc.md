@@ -67,6 +67,44 @@ Must for hardware
 
 For the community  of an already established company
 
+## How to Set KPIs and Goals
+
+#### Metrics
+
+Primary metrics:
+
+- Revenue(monthly recurring revenue - MRR)
+- Active Users
+
+> Good startups growth their primary metric between 5-10% weekly or 22-46% monthly or 12-142x yearly
+
+Secondary metrics(3-5 metrics):
+
+The secondary metric must be aligned to help achieve the primary metric
+
+- Retention
+- Profit
+- Payback period
+- Email conversion
+- Organic vs Paid users
+- Referral rate
+- Gross margin
+- Burn rate
+...
+
+#### Goals
+
+Really focus on **How can we improve our weekly growth!?**
+
+Define the goal that make sense to you.
+
+- Set goals on growth, you should hit the growth goal in a few weeks
+- Set goals weekly
+- Focus on organic users
+- Set exponential goal
+
+#### Print the goal!!! and track the progress
+
 ## How to Prioritize Your Time
 
 #### Fake progress
