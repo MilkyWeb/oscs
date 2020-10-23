@@ -26,7 +26,7 @@ Also, find numerical answers to:
 - How frequent is the problem?
 - How large is their budget?
 
-*How to measure market fit?*
+## How to measure market fit?
 
 **Ask once per week/month: How would you feel if you could no longer use "YOUR PRODUCT"?**
 (Very disappointed, Somewhat disappointed, Not disappointed)
